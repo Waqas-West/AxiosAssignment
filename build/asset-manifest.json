@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weatherappaxios/static/css/main.3f091cbe.css",
+    "main.js": "/weatherappaxios/static/js/main.68b4de1e.js",
+    "static/media/pressure.png": "/weatherappaxios/static/media/pressure.11b0c25270b5bedd58e4.png",
+    "static/media/clouds.png": "/weatherappaxios/static/media/clouds.c82be700801797ee5b3f.png",
+    "static/media/humidity.png": "/weatherappaxios/static/media/humidity.89aa1fa6eeeac7cea996.png",
+    "static/media/maximum.png": "/weatherappaxios/static/media/maximum.16a49c72405eaa440270.png",
+    "static/media/wind.png": "/weatherappaxios/static/media/wind.b5bb7299b842c65b5130.png",
+    "static/media/minimum.png": "/weatherappaxios/static/media/minimum.d4f3bfe8421de32f0659.png",
+    "static/media/sunset.png": "/weatherappaxios/static/media/sunset.34769c64e9b302633f73.png",
+    "static/media/background.svg": "/weatherappaxios/static/media/background.d7afc00cdc62af8a4b48.svg",
+    "static/media/visibility.png": "/weatherappaxios/static/media/visibility.76c96f0f3a03ec34fda8.png",
+    "static/media/sunrise.png": "/weatherappaxios/static/media/sunrise.26c51761c369e549c5ec.png",
+    "index.html": "/weatherappaxios/index.html",
+    "main.3f091cbe.css.map": "/weatherappaxios/static/css/main.3f091cbe.css.map",
+    "main.68b4de1e.js.map": "/weatherappaxios/static/js/main.68b4de1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f091cbe.css",
+    "static/js/main.68b4de1e.js"
+  ]
+}
